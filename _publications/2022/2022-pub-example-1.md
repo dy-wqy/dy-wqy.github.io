@@ -20,6 +20,5 @@ authors:
   - Yunan Li
   - Qiguang Miao
 links:
-  Paper: [https://github.com/luost26/academic-homepage](https://ieeexplore.ieee.org/document/9981800)
-  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Paper: https://ieeexplore.ieee.org/document/9981800  
 ---
