@@ -21,30 +21,32 @@ github: dy-wqy
 
 short_bio: >-
   I'm Qiongyan Wang, a first-year Ph.D. student at the System Hub, affiliated with the Hong Kong University of Science and Technology (Guangzhou), under the supervision of Prof. Yuxuan Liang. I previously earned my Master's degree in Computer Science from the University of Copenhagen.
-  My research interests mainly lie in <strong>Spatio-temporal (ST) data mining<\strong> and <strong>AI for social good<\strong>.
-  # <p>
-  #   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  #   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  # </p>
-  # <p>
-  #   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-  # </p>
+  My research interests mainly lie in <b>Spatio-temporal (ST) data mining<\b> and <b>AI for social good<\b>.
+ 
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/portrait.png
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
+- name: The Hong Kong University of Science and Technology (Guangzhou)
+  logo: /assets/images/badges/hkustgz_logo.png
+  position: Ph.D. in Intelligence Transportation
+  date: Sep. 2024 - Now
+- name: University of Copenhagen
+  logo: /assets/images/badges/ku_logo.png
+  position: M.S. in Computer Science
+  date: Sep. 2022 - Jul. 2024
 - name: Xidian University
-  logo: /assets/images/badges/xd_log.png
+  logo: /assets/images/badges/xd_logo.png
   position: B.S. in Software Engineering
   date: Sep. 2018 - Jul. 2022
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Tencent
+  logo: /assets/images/badges/tencent_logo.png
+  position: Software Intern
+  date: Aug. 2021 - Oct. 2021
 
 
 awards:
