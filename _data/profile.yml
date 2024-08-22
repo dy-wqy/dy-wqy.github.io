@@ -2,10 +2,10 @@ primary_name: "Qiongyan Wang"
 secondary_name: ""
 navbar_name: "Qiongyan Wang"
 
-# positions:
+positions:
 # - logo: /assets/images/badges/PKU_red.png  # Logo is optional
 #   name: Position 1 with logo
-# - name: Position 2 without logo
+- name: HKUST(GZ)
 
 
 email: "qiongyanwang@outlook.com"
