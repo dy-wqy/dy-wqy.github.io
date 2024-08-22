@@ -15,7 +15,7 @@ authors:
   - Chaoneng Li
   - Qianwen Chao
   - Guanwen Feng
-  - <b>Qiongyan Wang<\b>
+  - <b>Qiongyan Wang</b>
   - Pengfei Liu
   - Yunan Li
   - Qiguang Miao
