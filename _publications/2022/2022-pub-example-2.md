@@ -10,7 +10,7 @@ pub_date:       "2022"
 
 abstract: >-
    We present a novel velocity-based framework based on data-driven optimization to build dynamic crowd simulation that allows interactive control of global navigation, local collision avoidance, and group formation.
-cover:          /assets/images/covers/2022_vg.png
+cover:          /assets/images/covers/2022/2022_vg.png
 authors:
   - Pengfei Liu
   - Qianwen Chao
