@@ -10,7 +10,7 @@ pub_date:       "2022"
 
 abstract: >-
    We design a perceptual evaluation on virtual traffic fidelity and derive a mapping from the reconstruction error to the evaluation score.
-cover:          /assets/images/covers/2022_iros.png
+cover:          /assets/images/covers/2022/2022_iros.png
 authors:
   - Chaoneng Li
   - Qianwen Chao
