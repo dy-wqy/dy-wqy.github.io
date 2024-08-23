@@ -1,22 +1,23 @@
 ---
-title:          "Deep Structural Knowledge Exploitation and Synergy for Estimating Node Importance Value on Heterogeneous Information Networks"
-date:           2024-02-19 00:01:00 +0800
+title:          "Spatio-Temporal Field Neural Networks for Air Quality Inference"
+date:           2024-05-29 00:01:00 +0800
 selected:       true
-pub:            "In Proceeding of AAAI Conference on Artificial Intelligence (AAAI)"
+pub:            "International Joint Conference on Artificial Intelligence (IJCAI)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Conference</span>'
 pub_date:       "2024"
 
 abstract: >-
-  We propose a novel learning framework: SKES. Different from previous automatic learning designs, SKES exploits heterogeneous structural knowledge to enrich the informativeness of node representations.
-cover:          /assets/images/covers/2024/2024_aaai.png
+  In this work, we make the first attempt to combine two different spatio-temporal perspectives, fields and graphs, by proposing a new model, Spatio-Temporal Field Neural Network, and its corresponding new framework, Pyramidal Inference.
+cover:          /assets/images/covers/2024/2024_ijcai.png
 authors:
-  - Yankai Chen
-  - Yixiang Fang
+  - Yutong Feng
   - <b>Qiongyan Wang</b>
-  - Xin Cao
-  - Irwin King
+  - Yutong Xia
+  - Junlin Huang
+  - Siru Zhong
+  - Yuxuan Liang
 links:
-  Paper: https://arxiv.org/abs/2402.12411
+  Paper: https://arxiv.org/abs/2403.02354
 ---
